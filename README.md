@@ -1,7 +1,7 @@
 
 # Ezport website 
 
-This is my Ezport website in which I give the updates about the games and stuffs.
+This is my Ezport website where the game updates are shown...
 
 
 ## Technologies Used
